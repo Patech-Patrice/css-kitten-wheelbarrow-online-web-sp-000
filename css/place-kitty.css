@@ -19,7 +19,7 @@
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
 /* Descendent Selector*/ 
-aside a {/* select element with id="basket"*/
+#basket {/* select element with id="basket"*/
   position: absolute;
   z-index: 5;
   top: 291px;
